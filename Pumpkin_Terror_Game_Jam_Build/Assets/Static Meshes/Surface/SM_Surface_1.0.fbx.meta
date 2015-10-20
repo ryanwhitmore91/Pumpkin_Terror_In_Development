@@ -1,0 +1,837 @@
+fileFormatVersion: 2
+guid: 3de2c96e20cff3c47b8eb74fb1be2927
+timeCreated: 1444458410
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Back_Fence
+    100002: fence_post1
+    100004: fence_post1 1
+    100006: fence_post10
+    100008: fence_post10 1
+    100010: fence_post11
+    100012: fence_post11 1
+    100014: fence_post14
+    100016: fence_post14 1
+    100018: fence_post15
+    100020: fence_post15 1
+    100022: fence_post17
+    100024: fence_post17 1
+    100026: fence_post18
+    100028: fence_post18 1
+    100030: fence_post19
+    100032: fence_post19 1
+    100034: fence_post2
+    100036: fence_post2 1
+    100038: fence_post20
+    100040: fence_post20 1
+    100042: fence_post22
+    100044: fence_post22 1
+    100046: fence_post23
+    100048: fence_post23 1
+    100050: fence_post24
+    100052: fence_post24 1
+    100054: fence_post25
+    100056: fence_post25 1
+    100058: fence_post27
+    100060: fence_post27 1
+    100062: fence_post28
+    100064: fence_post28 1
+    100066: fence_post29
+    100068: fence_post29 1
+    100070: fence_post3
+    100072: fence_post3 1
+    100074: fence_post30
+    100076: fence_post30 1
+    100078: fence_post31
+    100080: fence_post31 1
+    100082: fence_post32
+    100084: fence_post32 1
+    100086: fence_post33
+    100088: fence_post33 1
+    100090: fence_post34
+    100092: fence_post34 1
+    100094: fence_post35
+    100096: fence_post35 1
+    100098: fence_post37
+    100100: fence_post37 1
+    100102: fence_post38
+    100104: fence_post38 1
+    100106: fence_post39
+    100108: fence_post39 1
+    100110: fence_post40
+    100112: fence_post40 1
+    100114: fence_post41
+    100116: fence_post41 1
+    100118: fence_post42
+    100120: fence_post42 1
+    100122: fence_post43
+    100124: fence_post43 1
+    100126: fence_post44
+    100128: fence_post44 1
+    100130: fence_post45
+    100132: fence_post45 1
+    100134: fence_post46
+    100136: fence_post46 1
+    100138: fence_post47
+    100140: fence_post47 1
+    100142: fence_post49
+    100144: fence_post49 1
+    100146: fence_post5
+    100148: fence_post5 1
+    100150: fence_post50
+    100152: fence_post50 1
+    100154: fence_post51
+    100156: fence_post51 1
+    100158: fence_post52
+    100160: fence_post52 1
+    100162: fence_post53
+    100164: fence_post53 1
+    100166: fence_post54
+    100168: fence_post54 1
+    100170: fence_post55
+    100172: fence_post55 1
+    100174: fence_post56
+    100176: fence_post56 1
+    100178: fence_post57
+    100180: fence_post57 1
+    100182: fence_post58
+    100184: fence_post58 1
+    100186: fence_post59
+    100188: fence_post59 1
+    100190: fence_post6
+    100192: fence_post6 1
+    100194: fence_post60
+    100196: fence_post60 1
+    100198: fence_post61
+    100200: fence_post61 1
+    100202: fence_post62
+    100204: fence_post62 1
+    100206: fence_post63
+    100208: fence_post63 1
+    100210: fence_post64
+    100212: fence_post64 1
+    100214: fence_post65
+    100216: fence_post65 1
+    100218: fence_post66
+    100220: fence_post66 1
+    100222: fence_post67
+    100224: fence_post67 1
+    100226: fence_post68
+    100228: fence_post68 1
+    100230: fence_post69
+    100232: fence_post69 1
+    100234: fence_post7
+    100236: fence_post7 1
+    100238: fence_post70
+    100240: fence_post70 1
+    100242: fence_post72
+    100244: fence_post72 1
+    100246: fence_post73
+    100248: fence_post73 1
+    100250: fence_post74
+    100252: fence_post74 1
+    100254: fence_post75
+    100256: fence_post75 1
+    100258: fence_post76
+    100260: fence_post76 1
+    100262: fence_post77
+    100264: fence_post77 1
+    100266: fence_post78
+    100268: fence_post78 1
+    100270: fence_post79
+    100272: fence_post79 1
+    100274: fence_post80
+    100276: fence_post80 1
+    100278: fence_post81
+    100280: fence_post81 1
+    100282: fence_post82
+    100284: fence_post82 1
+    100286: fence_post83
+    100288: fence_post83 1
+    100290: fence_post84
+    100292: fence_post84 1
+    100294: fence_post85
+    100296: fence_post85 1
+    100298: Front_Fence
+    100300: Left_Fence
+    100302: Right_Fence
+    100304: //RootNode
+    100306: surface
+    400000: Back_Fence
+    400002: fence_post1
+    400004: fence_post1 1
+    400006: fence_post10
+    400008: fence_post10 1
+    400010: fence_post11
+    400012: fence_post11 1
+    400014: fence_post14
+    400016: fence_post14 1
+    400018: fence_post15
+    400020: fence_post15 1
+    400022: fence_post17
+    400024: fence_post17 1
+    400026: fence_post18
+    400028: fence_post18 1
+    400030: fence_post19
+    400032: fence_post19 1
+    400034: fence_post2
+    400036: fence_post2 1
+    400038: fence_post20
+    400040: fence_post20 1
+    400042: fence_post22
+    400044: fence_post22 1
+    400046: fence_post23
+    400048: fence_post23 1
+    400050: fence_post24
+    400052: fence_post24 1
+    400054: fence_post25
+    400056: fence_post25 1
+    400058: fence_post27
+    400060: fence_post27 1
+    400062: fence_post28
+    400064: fence_post28 1
+    400066: fence_post29
+    400068: fence_post29 1
+    400070: fence_post3
+    400072: fence_post3 1
+    400074: fence_post30
+    400076: fence_post30 1
+    400078: fence_post31
+    400080: fence_post31 1
+    400082: fence_post32
+    400084: fence_post32 1
+    400086: fence_post33
+    400088: fence_post33 1
+    400090: fence_post34
+    400092: fence_post34 1
+    400094: fence_post35
+    400096: fence_post35 1
+    400098: fence_post37
+    400100: fence_post37 1
+    400102: fence_post38
+    400104: fence_post38 1
+    400106: fence_post39
+    400108: fence_post39 1
+    400110: fence_post40
+    400112: fence_post40 1
+    400114: fence_post41
+    400116: fence_post41 1
+    400118: fence_post42
+    400120: fence_post42 1
+    400122: fence_post43
+    400124: fence_post43 1
+    400126: fence_post44
+    400128: fence_post44 1
+    400130: fence_post45
+    400132: fence_post45 1
+    400134: fence_post46
+    400136: fence_post46 1
+    400138: fence_post47
+    400140: fence_post47 1
+    400142: fence_post49
+    400144: fence_post49 1
+    400146: fence_post5
+    400148: fence_post5 1
+    400150: fence_post50
+    400152: fence_post50 1
+    400154: fence_post51
+    400156: fence_post51 1
+    400158: fence_post52
+    400160: fence_post52 1
+    400162: fence_post53
+    400164: fence_post53 1
+    400166: fence_post54
+    400168: fence_post54 1
+    400170: fence_post55
+    400172: fence_post55 1
+    400174: fence_post56
+    400176: fence_post56 1
+    400178: fence_post57
+    400180: fence_post57 1
+    400182: fence_post58
+    400184: fence_post58 1
+    400186: fence_post59
+    400188: fence_post59 1
+    400190: fence_post6
+    400192: fence_post6 1
+    400194: fence_post60
+    400196: fence_post60 1
+    400198: fence_post61
+    400200: fence_post61 1
+    400202: fence_post62
+    400204: fence_post62 1
+    400206: fence_post63
+    400208: fence_post63 1
+    400210: fence_post64
+    400212: fence_post64 1
+    400214: fence_post65
+    400216: fence_post65 1
+    400218: fence_post66
+    400220: fence_post66 1
+    400222: fence_post67
+    400224: fence_post67 1
+    400226: fence_post68
+    400228: fence_post68 1
+    400230: fence_post69
+    400232: fence_post69 1
+    400234: fence_post7
+    400236: fence_post7 1
+    400238: fence_post70
+    400240: fence_post70 1
+    400242: fence_post72
+    400244: fence_post72 1
+    400246: fence_post73
+    400248: fence_post73 1
+    400250: fence_post74
+    400252: fence_post74 1
+    400254: fence_post75
+    400256: fence_post75 1
+    400258: fence_post76
+    400260: fence_post76 1
+    400262: fence_post77
+    400264: fence_post77 1
+    400266: fence_post78
+    400268: fence_post78 1
+    400270: fence_post79
+    400272: fence_post79 1
+    400274: fence_post80
+    400276: fence_post80 1
+    400278: fence_post81
+    400280: fence_post81 1
+    400282: fence_post82
+    400284: fence_post82 1
+    400286: fence_post83
+    400288: fence_post83 1
+    400290: fence_post84
+    400292: fence_post84 1
+    400294: fence_post85
+    400296: fence_post85 1
+    400298: Front_Fence
+    400300: Left_Fence
+    400302: Right_Fence
+    400304: //RootNode
+    400306: surface
+    2300000: Back_Fence
+    2300002: fence_post1
+    2300004: fence_post1 1
+    2300006: fence_post10
+    2300008: fence_post10 1
+    2300010: fence_post11
+    2300012: fence_post11 1
+    2300014: fence_post14
+    2300016: fence_post14 1
+    2300018: fence_post15
+    2300020: fence_post15 1
+    2300022: fence_post17
+    2300024: fence_post17 1
+    2300026: fence_post18
+    2300028: fence_post18 1
+    2300030: fence_post19
+    2300032: fence_post19 1
+    2300034: fence_post2
+    2300036: fence_post2 1
+    2300038: fence_post20
+    2300040: fence_post20 1
+    2300042: fence_post22
+    2300044: fence_post22 1
+    2300046: fence_post23
+    2300048: fence_post23 1
+    2300050: fence_post24
+    2300052: fence_post24 1
+    2300054: fence_post25
+    2300056: fence_post25 1
+    2300058: fence_post27
+    2300060: fence_post27 1
+    2300062: fence_post28
+    2300064: fence_post28 1
+    2300066: fence_post29
+    2300068: fence_post29 1
+    2300070: fence_post3
+    2300072: fence_post3 1
+    2300074: fence_post30
+    2300076: fence_post30 1
+    2300078: fence_post31
+    2300080: fence_post31 1
+    2300082: fence_post32
+    2300084: fence_post32 1
+    2300086: fence_post33
+    2300088: fence_post33 1
+    2300090: fence_post34
+    2300092: fence_post34 1
+    2300094: fence_post35
+    2300096: fence_post35 1
+    2300098: fence_post37
+    2300100: fence_post37 1
+    2300102: fence_post38
+    2300104: fence_post38 1
+    2300106: fence_post39
+    2300108: fence_post39 1
+    2300110: fence_post40
+    2300112: fence_post40 1
+    2300114: fence_post41
+    2300116: fence_post41 1
+    2300118: fence_post42
+    2300120: fence_post42 1
+    2300122: fence_post43
+    2300124: fence_post43 1
+    2300126: fence_post44
+    2300128: fence_post44 1
+    2300130: fence_post45
+    2300132: fence_post45 1
+    2300134: fence_post46
+    2300136: fence_post46 1
+    2300138: fence_post47
+    2300140: fence_post47 1
+    2300142: fence_post49
+    2300144: fence_post49 1
+    2300146: fence_post5
+    2300148: fence_post5 1
+    2300150: fence_post50
+    2300152: fence_post50 1
+    2300154: fence_post51
+    2300156: fence_post51 1
+    2300158: fence_post52
+    2300160: fence_post52 1
+    2300162: fence_post53
+    2300164: fence_post53 1
+    2300166: fence_post54
+    2300168: fence_post54 1
+    2300170: fence_post55
+    2300172: fence_post55 1
+    2300174: fence_post56
+    2300176: fence_post56 1
+    2300178: fence_post57
+    2300180: fence_post57 1
+    2300182: fence_post58
+    2300184: fence_post58 1
+    2300186: fence_post59
+    2300188: fence_post59 1
+    2300190: fence_post6
+    2300192: fence_post6 1
+    2300194: fence_post60
+    2300196: fence_post60 1
+    2300198: fence_post61
+    2300200: fence_post61 1
+    2300202: fence_post62
+    2300204: fence_post62 1
+    2300206: fence_post63
+    2300208: fence_post63 1
+    2300210: fence_post64
+    2300212: fence_post64 1
+    2300214: fence_post65
+    2300216: fence_post65 1
+    2300218: fence_post66
+    2300220: fence_post66 1
+    2300222: fence_post67
+    2300224: fence_post67 1
+    2300226: fence_post68
+    2300228: fence_post68 1
+    2300230: fence_post69
+    2300232: fence_post69 1
+    2300234: fence_post7
+    2300236: fence_post7 1
+    2300238: fence_post70
+    2300240: fence_post70 1
+    2300242: fence_post72
+    2300244: fence_post72 1
+    2300246: fence_post73
+    2300248: fence_post73 1
+    2300250: fence_post74
+    2300252: fence_post74 1
+    2300254: fence_post75
+    2300256: fence_post75 1
+    2300258: fence_post76
+    2300260: fence_post76 1
+    2300262: fence_post77
+    2300264: fence_post77 1
+    2300266: fence_post78
+    2300268: fence_post78 1
+    2300270: fence_post79
+    2300272: fence_post79 1
+    2300274: fence_post80
+    2300276: fence_post80 1
+    2300278: fence_post81
+    2300280: fence_post81 1
+    2300282: fence_post82
+    2300284: fence_post82 1
+    2300286: fence_post83
+    2300288: fence_post83 1
+    2300290: fence_post84
+    2300292: fence_post84 1
+    2300294: fence_post85
+    2300296: fence_post85 1
+    2300298: Front_Fence
+    2300300: Left_Fence
+    2300302: Right_Fence
+    2300304: surface
+    3300000: Back_Fence
+    3300002: fence_post1
+    3300004: fence_post1 1
+    3300006: fence_post10
+    3300008: fence_post10 1
+    3300010: fence_post11
+    3300012: fence_post11 1
+    3300014: fence_post14
+    3300016: fence_post14 1
+    3300018: fence_post15
+    3300020: fence_post15 1
+    3300022: fence_post17
+    3300024: fence_post17 1
+    3300026: fence_post18
+    3300028: fence_post18 1
+    3300030: fence_post19
+    3300032: fence_post19 1
+    3300034: fence_post2
+    3300036: fence_post2 1
+    3300038: fence_post20
+    3300040: fence_post20 1
+    3300042: fence_post22
+    3300044: fence_post22 1
+    3300046: fence_post23
+    3300048: fence_post23 1
+    3300050: fence_post24
+    3300052: fence_post24 1
+    3300054: fence_post25
+    3300056: fence_post25 1
+    3300058: fence_post27
+    3300060: fence_post27 1
+    3300062: fence_post28
+    3300064: fence_post28 1
+    3300066: fence_post29
+    3300068: fence_post29 1
+    3300070: fence_post3
+    3300072: fence_post3 1
+    3300074: fence_post30
+    3300076: fence_post30 1
+    3300078: fence_post31
+    3300080: fence_post31 1
+    3300082: fence_post32
+    3300084: fence_post32 1
+    3300086: fence_post33
+    3300088: fence_post33 1
+    3300090: fence_post34
+    3300092: fence_post34 1
+    3300094: fence_post35
+    3300096: fence_post35 1
+    3300098: fence_post37
+    3300100: fence_post37 1
+    3300102: fence_post38
+    3300104: fence_post38 1
+    3300106: fence_post39
+    3300108: fence_post39 1
+    3300110: fence_post40
+    3300112: fence_post40 1
+    3300114: fence_post41
+    3300116: fence_post41 1
+    3300118: fence_post42
+    3300120: fence_post42 1
+    3300122: fence_post43
+    3300124: fence_post43 1
+    3300126: fence_post44
+    3300128: fence_post44 1
+    3300130: fence_post45
+    3300132: fence_post45 1
+    3300134: fence_post46
+    3300136: fence_post46 1
+    3300138: fence_post47
+    3300140: fence_post47 1
+    3300142: fence_post49
+    3300144: fence_post49 1
+    3300146: fence_post5
+    3300148: fence_post5 1
+    3300150: fence_post50
+    3300152: fence_post50 1
+    3300154: fence_post51
+    3300156: fence_post51 1
+    3300158: fence_post52
+    3300160: fence_post52 1
+    3300162: fence_post53
+    3300164: fence_post53 1
+    3300166: fence_post54
+    3300168: fence_post54 1
+    3300170: fence_post55
+    3300172: fence_post55 1
+    3300174: fence_post56
+    3300176: fence_post56 1
+    3300178: fence_post57
+    3300180: fence_post57 1
+    3300182: fence_post58
+    3300184: fence_post58 1
+    3300186: fence_post59
+    3300188: fence_post59 1
+    3300190: fence_post6
+    3300192: fence_post6 1
+    3300194: fence_post60
+    3300196: fence_post60 1
+    3300198: fence_post61
+    3300200: fence_post61 1
+    3300202: fence_post62
+    3300204: fence_post62 1
+    3300206: fence_post63
+    3300208: fence_post63 1
+    3300210: fence_post64
+    3300212: fence_post64 1
+    3300214: fence_post65
+    3300216: fence_post65 1
+    3300218: fence_post66
+    3300220: fence_post66 1
+    3300222: fence_post67
+    3300224: fence_post67 1
+    3300226: fence_post68
+    3300228: fence_post68 1
+    3300230: fence_post69
+    3300232: fence_post69 1
+    3300234: fence_post7
+    3300236: fence_post7 1
+    3300238: fence_post70
+    3300240: fence_post70 1
+    3300242: fence_post72
+    3300244: fence_post72 1
+    3300246: fence_post73
+    3300248: fence_post73 1
+    3300250: fence_post74
+    3300252: fence_post74 1
+    3300254: fence_post75
+    3300256: fence_post75 1
+    3300258: fence_post76
+    3300260: fence_post76 1
+    3300262: fence_post77
+    3300264: fence_post77 1
+    3300266: fence_post78
+    3300268: fence_post78 1
+    3300270: fence_post79
+    3300272: fence_post79 1
+    3300274: fence_post80
+    3300276: fence_post80 1
+    3300278: fence_post81
+    3300280: fence_post81 1
+    3300282: fence_post82
+    3300284: fence_post82 1
+    3300286: fence_post83
+    3300288: fence_post83 1
+    3300290: fence_post84
+    3300292: fence_post84 1
+    3300294: fence_post85
+    3300296: fence_post85 1
+    3300298: Front_Fence
+    3300300: Left_Fence
+    3300302: Right_Fence
+    3300304: surface
+    4300000: surface
+    4300002: Back_Fence
+    4300004: fence_post54
+    4300006: fence_post27
+    4300008: fence_post29
+    4300010: fence_post30
+    4300012: fence_post31
+    4300014: fence_post32
+    4300016: fence_post33
+    4300018: fence_post34
+    4300020: fence_post35
+    4300022: fence_post37
+    4300024: fence_post38
+    4300026: fence_post39
+    4300028: fence_post40
+    4300030: fence_post41
+    4300032: fence_post42
+    4300034: fence_post43
+    4300036: fence_post44
+    4300038: fence_post45
+    4300040: fence_post46
+    4300042: fence_post47
+    4300044: fence_post49
+    4300046: fence_post50
+    4300048: fence_post51
+    4300050: fence_post52
+    4300052: fence_post53
+    4300054: fence_post63
+    4300056: fence_post62
+    4300058: fence_post61
+    4300060: fence_post55
+    4300062: fence_post56
+    4300064: fence_post57
+    4300066: fence_post58
+    4300068: fence_post59
+    4300070: fence_post60
+    4300072: fence_post64
+    4300074: fence_post65
+    4300076: fence_post66
+    4300078: fence_post67
+    4300080: fence_post68
+    4300082: fence_post69
+    4300084: Front_Fence
+    4300086: fence_post54
+    4300088: fence_post27
+    4300090: fence_post29
+    4300092: fence_post30
+    4300094: fence_post31
+    4300096: fence_post32
+    4300098: fence_post33
+    4300100: fence_post34
+    4300102: fence_post35
+    4300104: fence_post37
+    4300106: fence_post38
+    4300108: fence_post39
+    4300110: fence_post40
+    4300112: fence_post41
+    4300114: fence_post42
+    4300116: fence_post43
+    4300118: fence_post44
+    4300120: fence_post45
+    4300122: fence_post46
+    4300124: fence_post47
+    4300126: fence_post49
+    4300128: fence_post50
+    4300130: fence_post51
+    4300132: fence_post52
+    4300134: fence_post53
+    4300136: fence_post63
+    4300138: fence_post62
+    4300140: fence_post61
+    4300142: fence_post55
+    4300144: fence_post56
+    4300146: fence_post57
+    4300148: fence_post58
+    4300150: fence_post59
+    4300152: fence_post60
+    4300154: fence_post64
+    4300156: fence_post65
+    4300158: fence_post66
+    4300160: fence_post67
+    4300162: fence_post68
+    4300164: fence_post69
+    4300166: Left_Fence
+    4300168: fence_post2
+    4300170: fence_post3
+    4300172: fence_post5
+    4300174: fence_post6
+    4300176: fence_post7
+    4300178: fence_post10
+    4300180: fence_post11
+    4300182: fence_post14
+    4300184: fence_post15
+    4300186: fence_post17
+    4300188: fence_post18
+    4300190: fence_post72
+    4300192: fence_post73
+    4300194: fence_post74
+    4300196: fence_post75
+    4300198: fence_post76
+    4300200: fence_post77
+    4300202: fence_post78
+    4300204: fence_post79
+    4300206: fence_post80
+    4300208: fence_post81
+    4300210: fence_post82
+    4300212: fence_post83
+    4300214: fence_post84
+    4300216: fence_post85
+    4300218: fence_post19
+    4300220: fence_post20
+    4300222: fence_post22
+    4300224: fence_post23
+    4300226: fence_post24
+    4300228: fence_post25
+    4300230: fence_post28
+    4300232: fence_post1
+    4300234: fence_post70
+    4300236: Right_Fence
+    4300238: fence_post2
+    4300240: fence_post3
+    4300242: fence_post5
+    4300244: fence_post6
+    4300246: fence_post7
+    4300248: fence_post10
+    4300250: fence_post11
+    4300252: fence_post14
+    4300254: fence_post15
+    4300256: fence_post17
+    4300258: fence_post18
+    4300260: fence_post72
+    4300262: fence_post73
+    4300264: fence_post74
+    4300266: fence_post75
+    4300268: fence_post76
+    4300270: fence_post77
+    4300272: fence_post78
+    4300274: fence_post79
+    4300276: fence_post80
+    4300278: fence_post81
+    4300280: fence_post82
+    4300282: fence_post83
+    4300284: fence_post84
+    4300286: fence_post85
+    4300288: fence_post19
+    4300290: fence_post20
+    4300292: fence_post22
+    4300294: fence_post23
+    4300296: fence_post24
+    4300298: fence_post25
+    4300300: fence_post28
+    4300302: fence_post1
+    4300304: fence_post70
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

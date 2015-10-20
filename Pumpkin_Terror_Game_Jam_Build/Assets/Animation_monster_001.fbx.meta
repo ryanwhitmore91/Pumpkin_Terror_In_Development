@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: fd931e6e505034b419682014122853dc
+timeCreated: 1444529185
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Base
+    100004: Head
+    100006: Jaw
+    100008: L_Back_Clav
+    100010: L_Back_Heel
+    100012: L_Back_Knee1
+    100014: L_Back_Knee2
+    100016: L_Back_Shoulder
+    100018: L_Back_Toe
+    100020: L_Front_Clav
+    100022: L_Front_Elbow
+    100024: L_Front_Heel
+    100026: L_Front_Knee
+    100028: L_Front_Shoulder
+    100030: L_Front_Toe
+    100032: Mouth_Tip
+    100034: Neck
+    100036: pCube18
+    100038: Pelvis
+    100040: R_Back_Clav
+    100042: R_Back_Heel
+    100044: R_Back_Knee1
+    100046: R_Back_Knee2
+    100048: R_Back_Shoulder
+    100050: R_Back_Toe
+    100052: R_Front_Clav
+    100054: R_Front_Elbow
+    100056: R_Front_Heel
+    100058: R_Front_Knee
+    100060: R_Front_Shoulder
+    100062: R_Front_Toe
+    100064: Spine_1
+    100066: Spine_2
+    100068: Tail
+    400000: //RootNode
+    400002: Base
+    400004: Head
+    400006: Jaw
+    400008: L_Back_Clav
+    400010: L_Back_Heel
+    400012: L_Back_Knee1
+    400014: L_Back_Knee2
+    400016: L_Back_Shoulder
+    400018: L_Back_Toe
+    400020: L_Front_Clav
+    400022: L_Front_Elbow
+    400024: L_Front_Heel
+    400026: L_Front_Knee
+    400028: L_Front_Shoulder
+    400030: L_Front_Toe
+    400032: Mouth_Tip
+    400034: Neck
+    400036: pCube18
+    400038: Pelvis
+    400040: R_Back_Clav
+    400042: R_Back_Heel
+    400044: R_Back_Knee1
+    400046: R_Back_Knee2
+    400048: R_Back_Shoulder
+    400050: R_Back_Toe
+    400052: R_Front_Clav
+    400054: R_Front_Elbow
+    400056: R_Front_Heel
+    400058: R_Front_Knee
+    400060: R_Front_Shoulder
+    400062: R_Front_Toe
+    400064: Spine_1
+    400066: Spine_2
+    400068: Tail
+    4300000: pCube18
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: pCube18
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: pCube18
+        weight: 1
+      - path: Pelvis
+        weight: 1
+      - path: Pelvis/Base
+        weight: 1
+      - path: Pelvis/Base/Tail
+        weight: 1
+      - path: Pelvis/L_Back_Clav
+        weight: 1
+      - path: Pelvis/L_Back_Clav/L_Back_Shoulder
+        weight: 1
+      - path: Pelvis/L_Back_Clav/L_Back_Shoulder/L_Back_Knee1
+        weight: 1
+      - path: Pelvis/L_Back_Clav/L_Back_Shoulder/L_Back_Knee1/L_Back_Knee2
+        weight: 1
+      - path: Pelvis/L_Back_Clav/L_Back_Shoulder/L_Back_Knee1/L_Back_Knee2/L_Back_Heel
+        weight: 1
+      - path: Pelvis/L_Back_Clav/L_Back_Shoulder/L_Back_Knee1/L_Back_Knee2/L_Back_Heel/L_Back_Toe
+        weight: 1
+      - path: Pelvis/R_Back_Clav
+        weight: 1
+      - path: Pelvis/R_Back_Clav/R_Back_Shoulder
+        weight: 1
+      - path: Pelvis/R_Back_Clav/R_Back_Shoulder/R_Back_Knee1
+        weight: 1
+      - path: Pelvis/R_Back_Clav/R_Back_Shoulder/R_Back_Knee1/R_Back_Knee2
+        weight: 1
+      - path: Pelvis/R_Back_Clav/R_Back_Shoulder/R_Back_Knee1/R_Back_Knee2/R_Back_Heel
+        weight: 1
+      - path: Pelvis/R_Back_Clav/R_Back_Shoulder/R_Back_Knee1/R_Back_Knee2/R_Back_Heel/R_Back_Toe
+        weight: 1
+      - path: Pelvis/Spine_1
+        weight: 1
+      - path: Pelvis/Spine_1/Spine_2
+        weight: 1
+      - path: Pelvis/Spine_1/Spine_2/L_Front_Clav
+        weight: 1
+      - path: Pelvis/Spine_1/Spine_2/L_Front_Clav/L_Front_Shoulder
+        weight: 1
+      - path: Pelvis/Spine_1/Spine_2/L_Front_Clav/L_Front_Shoulder/L_Front_Elbow
+        weight: 1
+      - path: Pelvis/Spine_1/Spine_2/L_Front_Clav/L_Front_Shoulder/L_Front_Elbow/L_Front_Knee
+        weight: 1
+      - path: Pelvis/Spine_1/Spine_2/L_Front_Clav/L_Front_Shoulder/L_Front_Elbow/L_Front_Knee/L_Front_Heel
+        weight: 1
+      - path: Pelvis/Spine_1/Spine_2/L_Front_Clav/L_Front_Shoulder/L_Front_Elbow/L_Front_Knee/L_Front_Heel/L_Front_Toe
+        weight: 1
+      - path: Pelvis/Spine_1/Spine_2/Neck
+        weight: 1
+      - path: Pelvis/Spine_1/Spine_2/Neck/Head
+        weight: 1
+      - path: Pelvis/Spine_1/Spine_2/Neck/Jaw
+        weight: 1
+      - path: Pelvis/Spine_1/Spine_2/Neck/Jaw/Mouth_Tip
+        weight: 1
+      - path: Pelvis/Spine_1/Spine_2/R_Front_Clav
+        weight: 1
+      - path: Pelvis/Spine_1/Spine_2/R_Front_Clav/R_Front_Shoulder
+        weight: 1
+      - path: Pelvis/Spine_1/Spine_2/R_Front_Clav/R_Front_Shoulder/R_Front_Elbow
+        weight: 1
+      - path: Pelvis/Spine_1/Spine_2/R_Front_Clav/R_Front_Shoulder/R_Front_Elbow/R_Front_Knee
+        weight: 1
+      - path: Pelvis/Spine_1/Spine_2/R_Front_Clav/R_Front_Shoulder/R_Front_Elbow/R_Front_Knee/R_Front_Heel
+        weight: 1
+      - path: Pelvis/Spine_1/Spine_2/R_Front_Clav/R_Front_Shoulder/R_Front_Elbow/R_Front_Knee/R_Front_Heel/R_Front_Toe
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: bf5f26daaffd3a94993b618e6e469159
+timeCreated: 1444455845
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: head_tip
+    100004: L_Clav
+    100006: L_Elbow
+    100008: L_Foot
+    100010: L_Hip
+    100012: L_Index_0
+    100014: L_Index_1
+    100016: L_Index_2
+    100018: L_Index_3
+    100020: L_Knee
+    100022: L_Middle_0
+    100024: L_Middle_1
+    100026: L_Middle_2
+    100028: L_Middle_3
+    100030: L_Pinky_0
+    100032: L_Pinky_1
+    100034: L_Pinky_2
+    100036: L_Pinky_3
+    100038: L_ring_0
+    100040: L_ring_1
+    100042: L_ring_2
+    100044: L_ring_3
+    100046: L_Shoulder
+    100048: L_Wrist
+    100050: neck
+    100052: pelvis
+    100054: R_Clav
+    100056: R_Elbow
+    100058: R_Foot
+    100060: R_Hip
+    100062: R_Index_0
+    100064: R_Index_1
+    100066: R_Index_2
+    100068: R_Index_3
+    100070: R_Knee
+    100072: R_Middle_0
+    100074: R_Middle_1
+    100076: R_Middle_2
+    100078: R_Middle_3
+    100080: R_Pinky_0
+    100082: R_Pinky_1
+    100084: R_Pinky_2
+    100086: R_Pinky_3
+    100088: R_ring_0
+    100090: R_ring_1
+    100092: R_ring_2
+    100094: R_ring_3
+    100096: R_Shoulder
+    100098: R_Wrist
+    100100: scarecrow
+    100102: spine_1
+    100104: spine_2
+    100106: spine_3
+    400000: //RootNode
+    400002: head_tip
+    400004: L_Clav
+    400006: L_Elbow
+    400008: L_Foot
+    400010: L_Hip
+    400012: L_Index_0
+    400014: L_Index_1
+    400016: L_Index_2
+    400018: L_Index_3
+    400020: L_Knee
+    400022: L_Middle_0
+    400024: L_Middle_1
+    400026: L_Middle_2
+    400028: L_Middle_3
+    400030: L_Pinky_0
+    400032: L_Pinky_1
+    400034: L_Pinky_2
+    400036: L_Pinky_3
+    400038: L_ring_0
+    400040: L_ring_1
+    400042: L_ring_2
+    400044: L_ring_3
+    400046: L_Shoulder
+    400048: L_Wrist
+    400050: neck
+    400052: pelvis
+    400054: R_Clav
+    400056: R_Elbow
+    400058: R_Foot
+    400060: R_Hip
+    400062: R_Index_0
+    400064: R_Index_1
+    400066: R_Index_2
+    400068: R_Index_3
+    400070: R_Knee
+    400072: R_Middle_0
+    400074: R_Middle_1
+    400076: R_Middle_2
+    400078: R_Middle_3
+    400080: R_Pinky_0
+    400082: R_Pinky_1
+    400084: R_Pinky_2
+    400086: R_Pinky_3
+    400088: R_ring_0
+    400090: R_ring_1
+    400092: R_ring_2
+    400094: R_ring_3
+    400096: R_Shoulder
+    400098: R_Wrist
+    400100: scarecrow
+    400102: spine_1
+    400104: spine_2
+    400106: spine_3
+    4300000: scarecrow
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: scarecrow
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: pelvis
+        weight: 1
+      - path: pelvis/L_Hip
+        weight: 1
+      - path: pelvis/L_Hip/L_Knee
+        weight: 1
+      - path: pelvis/L_Hip/L_Knee/L_Foot
+        weight: 1
+      - path: pelvis/R_Hip
+        weight: 1
+      - path: pelvis/R_Hip/R_Knee
+        weight: 1
+      - path: pelvis/R_Hip/R_Knee/R_Foot
+        weight: 1
+      - path: pelvis/spine_1
+        weight: 1
+      - path: pelvis/spine_1/spine_2
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/L_Clav
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/L_Clav/L_Shoulder
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/L_Clav/L_Shoulder/L_Elbow
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/L_Clav/L_Shoulder/L_Elbow/L_Wrist
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/L_Clav/L_Shoulder/L_Elbow/L_Wrist/L_Index_0
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/L_Clav/L_Shoulder/L_Elbow/L_Wrist/L_Index_0/L_Index_1
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/L_Clav/L_Shoulder/L_Elbow/L_Wrist/L_Index_0/L_Index_1/L_Index_2
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/L_Clav/L_Shoulder/L_Elbow/L_Wrist/L_Index_0/L_Index_1/L_Index_2/L_Index_3
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/L_Clav/L_Shoulder/L_Elbow/L_Wrist/L_Middle_0
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/L_Clav/L_Shoulder/L_Elbow/L_Wrist/L_Middle_0/L_Middle_1
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/L_Clav/L_Shoulder/L_Elbow/L_Wrist/L_Middle_0/L_Middle_1/L_Middle_2
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/L_Clav/L_Shoulder/L_Elbow/L_Wrist/L_Middle_0/L_Middle_1/L_Middle_2/L_Middle_3
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/L_Clav/L_Shoulder/L_Elbow/L_Wrist/L_Pinky_0
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/L_Clav/L_Shoulder/L_Elbow/L_Wrist/L_Pinky_0/L_Pinky_1
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/L_Clav/L_Shoulder/L_Elbow/L_Wrist/L_Pinky_0/L_Pinky_1/L_Pinky_2
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/L_Clav/L_Shoulder/L_Elbow/L_Wrist/L_Pinky_0/L_Pinky_1/L_Pinky_2/L_Pinky_3
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/L_Clav/L_Shoulder/L_Elbow/L_Wrist/L_ring_0
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/L_Clav/L_Shoulder/L_Elbow/L_Wrist/L_ring_0/L_ring_1
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/L_Clav/L_Shoulder/L_Elbow/L_Wrist/L_ring_0/L_ring_1/L_ring_2
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/L_Clav/L_Shoulder/L_Elbow/L_Wrist/L_ring_0/L_ring_1/L_ring_2/L_ring_3
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/neck
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/neck/head_tip
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/R_Clav
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/R_Clav/R_Shoulder
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/R_Clav/R_Shoulder/R_Elbow
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/R_Clav/R_Shoulder/R_Elbow/R_Wrist
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/R_Clav/R_Shoulder/R_Elbow/R_Wrist/R_Index_0
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/R_Clav/R_Shoulder/R_Elbow/R_Wrist/R_Index_0/R_Index_1
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/R_Clav/R_Shoulder/R_Elbow/R_Wrist/R_Index_0/R_Index_1/R_Index_2
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/R_Clav/R_Shoulder/R_Elbow/R_Wrist/R_Index_0/R_Index_1/R_Index_2/R_Index_3
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/R_Clav/R_Shoulder/R_Elbow/R_Wrist/R_Middle_0
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/R_Clav/R_Shoulder/R_Elbow/R_Wrist/R_Middle_0/R_Middle_1
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/R_Clav/R_Shoulder/R_Elbow/R_Wrist/R_Middle_0/R_Middle_1/R_Middle_2
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/R_Clav/R_Shoulder/R_Elbow/R_Wrist/R_Middle_0/R_Middle_1/R_Middle_2/R_Middle_3
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/R_Clav/R_Shoulder/R_Elbow/R_Wrist/R_Pinky_0
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/R_Clav/R_Shoulder/R_Elbow/R_Wrist/R_Pinky_0/R_Pinky_1
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/R_Clav/R_Shoulder/R_Elbow/R_Wrist/R_Pinky_0/R_Pinky_1/R_Pinky_2
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/R_Clav/R_Shoulder/R_Elbow/R_Wrist/R_Pinky_0/R_Pinky_1/R_Pinky_2/R_Pinky_3
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/R_Clav/R_Shoulder/R_Elbow/R_Wrist/R_ring_0
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/R_Clav/R_Shoulder/R_Elbow/R_Wrist/R_ring_0/R_ring_1
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/R_Clav/R_Shoulder/R_Elbow/R_Wrist/R_ring_0/R_ring_1/R_ring_2
+        weight: 1
+      - path: pelvis/spine_1/spine_2/spine_3/R_Clav/R_Shoulder/R_Elbow/R_Wrist/R_ring_0/R_ring_1/R_ring_2/R_ring_3
+        weight: 1
+      - path: scarecrow
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

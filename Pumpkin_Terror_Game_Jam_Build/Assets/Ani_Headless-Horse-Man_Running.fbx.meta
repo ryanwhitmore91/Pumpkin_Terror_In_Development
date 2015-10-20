@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 7dd825799fcbc264f8b685959e9b2f9e
+timeCreated: 1444538398
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ass
+    100004: ass2
+    100006: cape_1
+    100008: cape_2
+    100010: cape_3
+    100012: cape_4
+    100014: H_neck
+    100016: H_spine
+    100018: hand_tip
+    100020: hand_tip 1
+    100022: head
+    100024: joint1
+    100026: joint2
+    100028: L_ankle
+    100030: L_back_ankle
+    100032: L_back_heel
+    100034: L_back_hip
+    100036: L_back_knee
+    100038: L_back_knee2
+    100040: L_back_toe
+    100042: L_clav
+    100044: L_clav 1
+    100046: L_elbow
+    100048: L_heel
+    100050: L_knee
+    100052: L_shoulder
+    100054: L_shoulder 1
+    100056: L_toe
+    100058: L_wrist
+    100060: MAIN_CONTROLER
+    100062: neck
+    100064: nose
+    100066: pCylinder2
+    100068: R_ankle
+    100070: R_back_ankle
+    100072: R_back_heel
+    100074: R_back_hip
+    100076: R_back_knee
+    100078: R_back_knee2
+    100080: R_back_toe
+    100082: R_clav
+    100084: R_clav 1
+    100086: R_elbow
+    100088: R_heel
+    100090: R_knee
+    100092: R_shoulder
+    100094: R_shoulder 1
+    100096: R_toe
+    100098: R_wrist
+    100100: spine
+    100102: spine_2
+    100104: spine_4
+    100106: tail1
+    100108: tail2
+    100110: tail3
+    100112: tail4
+    400000: //RootNode
+    400002: ass
+    400004: ass2
+    400006: cape_1
+    400008: cape_2
+    400010: cape_3
+    400012: cape_4
+    400014: H_neck
+    400016: H_spine
+    400018: hand_tip
+    400020: hand_tip 1
+    400022: head
+    400024: joint1
+    400026: joint2
+    400028: L_ankle
+    400030: L_back_ankle
+    400032: L_back_heel
+    400034: L_back_hip
+    400036: L_back_knee
+    400038: L_back_knee2
+    400040: L_back_toe
+    400042: L_clav
+    400044: L_clav 1
+    400046: L_elbow
+    400048: L_heel
+    400050: L_knee
+    400052: L_shoulder
+    400054: L_shoulder 1
+    400056: L_toe
+    400058: L_wrist
+    400060: MAIN_CONTROLER
+    400062: neck
+    400064: nose
+    400066: pCylinder2
+    400068: R_ankle
+    400070: R_back_ankle
+    400072: R_back_heel
+    400074: R_back_hip
+    400076: R_back_knee
+    400078: R_back_knee2
+    400080: R_back_toe
+    400082: R_clav
+    400084: R_clav 1
+    400086: R_elbow
+    400088: R_heel
+    400090: R_knee
+    400092: R_shoulder
+    400094: R_shoulder 1
+    400096: R_toe
+    400098: R_wrist
+    400100: spine
+    400102: spine_2
+    400104: spine_4
+    400106: tail1
+    400108: tail2
+    400110: tail3
+    400112: tail4
+    4300000: pCylinder2
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: pCylinder2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
